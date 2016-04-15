@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  NavigationController.h
 //  novelReader
 //
 //  Created by sq-ios53 on 16/4/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface NavigationController : UINavigationController
 
 @end
-
